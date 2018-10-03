@@ -1,3 +1,22 @@
-# event_based_multiview_stereo
+# Event Based Multi View Stereo
 
-This project implements the paper by Rebecq et al. on event based multi-view stereo
+This repo contains implementation of the event based multi-view stereo method proposed by <a href="https://link.springer.com/article/10.1007/s11263-017-1050-6"> Rebecq et. al</a>. 
+
+In order to execute the notebook the datasets have to be stored under the repo Data/'name-of-the-dataset'. The datasets are sourced from this <a href="http://rpg.ifi.uzh.ch/davis_data.html">link.</a>
+
+To understand how events occur in an event based camera, please watch the video at this <a href="https://www.youtube.com/watch?v=kPCZESVfHoQ">link.</a>
+
+Below are the links to different types of Event Cameras,
+
+1. <a href="http://inivation.com/"> DAVIS </a>
+
+2. <a href="https://www.prophesee.ai/"> ATIS </a>
+
+
+The Below Papers might be helpful to understand the anatomy of Event Cameras in General
+<ol>
+    <li><a href="https://ieeexplore.ieee.org/document/5648367">Posch, C., Matolin, D., and Wohlgenannt, R. (2011). A QVGA 143 dB dynamic range frame-free PWM image sensor with lossless pixel-level video compression and time-domain CDS. In IEEE Journal of Solid-State Circuits, pp. 259–275.</a></li>
+    <li>Lichtsteiner, P., Posch, C., Delbruck, T., & Member, S. (2008). Temporal Contrast Vision Sensor. Work, 43(2), 566–576.</li> 
+    <li><a href="https://ieeexplore.ieee.org/document/921358/">Culurciello, E., Etienne-Cummings, R., and Boahen, K. (2001). High dynamic range, arbitrated address event representation digital imager. In ISCAS 2001 - 2001 IEEE International Symposium on Circuits and Systems, Conference Proceedings, pp. 505–508.</a></li>
+</ol>
+ 
