@@ -14,7 +14,7 @@ Below are the links to different types of Event Cameras,
 
 2. <a href="https://www.prophesee.ai/"> ATIS </a>
 
-
+# References
 The Below Papers might be helpful to understand the anatomy of Event Cameras in General
 <ol>
     <li><a href="https://ieeexplore.ieee.org/document/5648367">Posch, C., Matolin, D., and Wohlgenannt, R. (2011). A QVGA 143 dB dynamic range frame-free PWM image sensor with lossless pixel-level video compression and time-domain CDS. In IEEE Journal of Solid-State Circuits, pp. 259–275.</a></li>
