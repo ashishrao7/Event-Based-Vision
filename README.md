@@ -2,7 +2,7 @@
 
 This repo contains implementation of the event based multi-view stereo method proposed by <a href="https://link.springer.com/article/10.1007/s11263-017-1050-6"> Rebecq et. al</a>. 
 
-In order to execute the notebook the datasets have to be stored under the repo data/'name-of-the-dataset'. The datasets have not been included in this repo due to their enormous size and also due to the fact that they are available publicly. The datasets are sourced from this <a href="http://rpg.ifi.uzh.ch/davis_data.html">link.</a>
+In order to execute the notebook the datasets have to be stored under the repo 'data/name-of-the-dataset'. The datasets have not been included in this repo due to their enormous size and also due to the fact that they are available publicly. The datasets are sourced from this <a href="http://rpg.ifi.uzh.ch/davis_data.html">link.</a>
 
 To know in detail about the files available and the properties of the dataset, please refer to <a href="https://arxiv.org/pdf/1610.08336.pdf">this paper.</a>
 
